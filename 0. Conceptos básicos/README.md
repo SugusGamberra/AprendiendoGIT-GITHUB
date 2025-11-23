@@ -16,16 +16,16 @@ Si partes _desde un perfil_, directo al **paso 1**! Si partes _desde el enlace a
 
 1. Ve a la pestaña **repositories** → verás todos los repos! Ve al que quieras y clic en él, se te abrirá con todos sus archivos y sus cosas.
 #### 📍 Vista previa del perfil
-![Profile](/img/1.png)
+![Profile](img/1.png)
 2. **El `README.md` aparece abajo de donde están las carpetas/archivos**: es la carta de presentación del repo. Léela **SIEMPRE**! Es contenido de _alto valor_
 #### 📍 Vista previa del readme
-![Readme](/img/2.png)
+![Readme](img/2.png)
 3. Haz clic en un archivo (por ejemplo `0. Fundamentos de la Programación en JAVA`) para ver su contenido.
 #### 📍 Vista previa del contenido de una carpeta o archivo clicando en él
-![Contenido](/img/3.png)
+![Contenido](img/3.png)
 4. En la parte superior hay pestañas: *Code*, *Issues*, *Pull requests*, *Actions*, *Projects*, *Wiki*, *Settings*. Te recomiendo que veas cada una para que te familiarices!
 #### 📍 Vista previa de las pestañas
-![Pestañas](/img/4.png)
+![Pestañas](img/4.png)
 
 ## ✏️ Conceptos clave
 
@@ -133,16 +133,16 @@ cat ~/.ssh/id_ed25519.pub
 4. Ve a github:
     - Arriba a la dcha - settings
     #### 📍 Vista previa de settings
-    ![Settings](/img/5.png)
+    ![Settings](img/5.png)
     - Menú izquierdo - SSH and GPG keys
     #### 📍 Vista previa de SSH
-    ![SSH](/img/6.png)    
+    ![SSH](img/6.png)    
     - Dale a `new SSH key`
     #### 📍 Vista previa de nuevo ssh
-    ![NewSSH](/img/7.png)
+    ![NewSSH](img/7.png)
     - En `título` ponle uno identificativo de tu pc
     #### 📍 Vista previa de add ssh
-    ![AddSSH](/img/8.png)
+    ![AddSSH](img/8.png)
     - En `key` pega tu clave y guarda!
 
 > 🌐 _Por qué te recomiendo hacer esto?_ Porque es una capita de seguridad, nunca está de más, es un protocolo que te permite conectarte y autentificarse de forma segura en los servidores de github, como te dije, sin usar username ni contraseña en cada conexión. Usa ese par de llaves criptográficas para verificar tu identidad y permitir un acceso **SEGURO** y **CIFRADO** a tus repos!!!
@@ -161,7 +161,7 @@ cat ~/.ssh/id_ed25519.pub
 2. Ponle el nombre que creas conveniente, si es la primera vez ponle `Prueba`
 3. Marca "`Add a README`", no hace falta de momento añadir licencias ni gitignores!!
 #### 📍 Ejemplo de yo creando este repo desde el que me lees
-![Repo](/img/9.png)
+![Repo](img/9.png)
 
 Ahora que lo tienes creado en github, vas a tu pc y por hacer la prueba y que veas que todo funciona smooth...
 
@@ -182,7 +182,7 @@ git push -u origin main
 
 > **NOTA**: Si no te sale Open Git Bash here, mira de darle a `Mostrar más opciones`
 > #### 📍 Vista previa de mostrar más opciones
-> ![MasOpciones](/img/9.png)
+> ![MasOpciones](img/10.png)
 
 Has creado tu proyecto con éxitooo! Supongamos que **tu proyecto crece**, añades, modificas, quitas... Para ello aprendemos a trabajar en ramas ;3
 
