@@ -196,7 +196,14 @@ git commit -m "Modificación y adición de .txt"
 git push -u origin probando
 ```
 2. Ve a tu repo de github, verás que te sale arribita "`Compare & pull request`", abrelo, añade si quieres una descripción y crea el PR
+#### 📍 Vista previa de todos los pasos de compare and pr
+![Compare&PR](img/11.png)
+![CreatePR](img/12.png)
 3. Revisa y pulsa `merge pull request`, y ya borras la rama que te saldrá un botón de `delete branch`
+#### 📍 Vista previa de todos los pasos del merge
+![MergePR](img/13.png)
+![CommitMerge](img/14.png)
+![DeleteBranch](img/15.png)
 4. En git bash **eliminamos la rama** de forma local, ya que no la usaremos mas:
 ```bash
 git switch main
